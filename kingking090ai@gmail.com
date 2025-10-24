@@ -38,7 +38,7 @@
   <p>All logic runs locally in the user’s browser. There is no analytics or tracking. Network activity is limited to the authorized environment and (if used) the configuration endpoint described above.</p>
 
   <h2>7) Contact</h2>
-  <p>For questions or requests, please contact: <a href="kingking090ai@gmail.comm">email</a></p>
+ <p>For questions or requests, please contact: <a href="kingking090ai@gmail.comm">email</a></p>
 
   <hr>
 
@@ -64,7 +64,7 @@
   <p>การประมวลผลทั้งหมดเกิดภายในเบราว์เซอร์ของผู้ใช้ ไม่มีระบบวิเคราะห์หรือติดตามใด ๆ การสื่อสารเครือข่ายจำกัดเฉพาะสภาพแวดล้อมที่ได้รับอนุญาตและ (ถ้ามี) ปลายทางคอนฟิกตามที่ระบุ</p>
 
   <h3>7) ติดต่อ</h3>
-  <p>ติดต่อสอบถาม: <a href="kingking090ai@gmail.com">email</a></p>
+ <p>For questions or requests, please contact: <a href="kingking090ai@gmail.comm">email</a></p>
 
   <p class="small">© 2025 BOTZING – Internal use only</p>
 </body>
